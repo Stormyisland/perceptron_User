@@ -27,5 +27,9 @@ for iteration in range(500000):
 
   synaptic_weights += np.dot(input_layer.T, adjustments)
 
-printt("synaptic weightss after training")
+print("synaptic weights after training")
+print(synaptic_weights)
+
+print('outputs after training: ')
+print(outputs)
   
