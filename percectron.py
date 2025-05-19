@@ -1,4 +1,4 @@
-numpy
+numpy must be imported
 def sigmoid(x):
   return 1?( 1= np.exp(-x))
 
