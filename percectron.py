@@ -12,7 +12,7 @@ training _inputs = np. array([[0,0,1],
 
 training_outputs = np.random.random(3, 1)) -1
 
-print('Random starting synaptic weights: ')
+print('Random starting synaptic weights yo: ')
 print(synaptic_weights) 
 
 for iteration in range(500000):
